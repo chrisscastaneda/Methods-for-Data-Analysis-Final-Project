@@ -1,0 +1,1630 @@
+biennium: 2015		urls.length:2116
+
+urls[1210]::
+Scraping: WI_2015_REG_SB28 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB28
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb28
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb28
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb28
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb28
+	scroll_index:  4
+	text.indexOf("(End)"):  31334
+
+urls[1211]::
+Scraping: WI_2015_REG_SB29 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB29
+
+urls[1212]::
+Scraping: WI_2015_REG_SB30 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB30
+
+urls[1213]::
+Scraping: WI_2015_REG_SB31 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB31
+
+urls[1214]::
+Scraping: WI_2015_REG_SB32 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB32
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb32
+	scroll_index:  1
+	text.indexOf("(End)"):  16004
+
+urls[1215]::
+Scraping: WI_2015_REG_SB33 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB33
+
+urls[1216]::
+Scraping: WI_2015_REG_SB34 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB34
+
+urls[1217]::
+Scraping: WI_2015_REG_SB35 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB35
+
+urls[1218]::
+Scraping: WI_2015_REG_SB36 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB36
+
+urls[1219]::
+Scraping: WI_2015_REG_SB37 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB37
+
+urls[1220]::
+Scraping: WI_2015_REG_SB38 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB38
+
+urls[1221]::
+Scraping: WI_2015_REG_SB39 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB39
+
+urls[1222]::
+Scraping: WI_2015_REG_SB40 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB40
+
+urls[1223]::
+Scraping: WI_2015_REG_SB41 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB41
+
+urls[1224]::
+Scraping: WI_2015_REG_SB42 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB42
+
+urls[1225]::
+Scraping: WI_2015_REG_SB43 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB43
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb43
+	scroll_index:  1
+	text.indexOf("(End)"):  14633
+
+urls[1226]::
+Scraping: WI_2015_REG_SB44 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB44
+
+urls[1227]::
+Scraping: WI_2015_REG_SB45 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB45
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb45
+	scroll_index:  1
+	text.indexOf("(End)"):  17048
+
+urls[1228]::
+Scraping: WI_2015_REG_SB46 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB46
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb46
+	scroll_index:  1
+	text.indexOf("(End)"):  13870
+
+urls[1229]::
+Scraping: WI_2015_REG_SB47 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB47
+
+urls[1230]::
+Scraping: WI_2015_REG_SB48 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB48
+
+urls[1231]::
+Scraping: WI_2015_REG_SB49 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB49
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb49
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb49
+	scroll_index:  2
+	text.indexOf("(End)"):  20130
+
+urls[1232]::
+Scraping: WI_2015_REG_SB50 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB50
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb50
+	scroll_index:  1
+	text.indexOf("(End)"):  21531
+
+urls[1233]::
+Scraping: WI_2015_REG_SB51 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB51
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb51
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb51
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb51
+	scroll_index:  3
+	text.indexOf("(End)"):  42835
+
+urls[1234]::
+Scraping: WI_2015_REG_SB52 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB52
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb52
+	scroll_index:  1
+	text.indexOf("(End)"):  14700
+
+urls[1235]::
+Scraping: WI_2015_REG_SB53 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB53
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb53
+	scroll_index:  1
+	text.indexOf("(End)"):  18623
+
+urls[1236]::
+Scraping: WI_2015_REG_SB54 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB54
+
+urls[1237]::
+Scraping: WI_2015_REG_SB55 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB55
+
+urls[1238]::
+Scraping: WI_2015_REG_SB56 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB56
+
+urls[1239]::
+Scraping: WI_2015_REG_SB57 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB57
+
+urls[1240]::
+Scraping: WI_2015_REG_SB58 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB58
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb58
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb58
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb58
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb58
+	scroll_index:  4
+	text.indexOf("(End)"):  44017
+
+urls[1241]::
+Scraping: WI_2015_REG_SB59 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB59
+
+urls[1242]::
+Scraping: WI_2015_REG_SB60 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB60
+
+urls[1243]::
+Scraping: WI_2015_REG_SB61 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB61
+
+urls[1244]::
+Scraping: WI_2015_REG_SB62 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB62
+
+urls[1245]::
+Scraping: WI_2015_REG_SB63 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB63
+
+urls[1246]::
+Scraping: WI_2015_REG_SB64 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB64
+
+urls[1247]::
+Scraping: WI_2015_REG_SB65 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB65
+
+urls[1248]::
+Scraping: WI_2015_REG_SB66 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB66
+
+urls[1249]::
+Scraping: WI_2015_REG_SB67 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB67
+
+urls[1250]::
+Scraping: WI_2015_REG_SB68 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB68
+
+urls[1251]::
+Scraping: WI_2015_REG_SB69 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB69
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb69
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb69
+	scroll_index:  2
+	text.indexOf("(End)"):  28599
+
+urls[1252]::
+Scraping: WI_2015_REG_SB70 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB70
+
+urls[1253]::
+Scraping: WI_2015_REG_SB71 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB71
+
+urls[1254]::
+Scraping: WI_2015_REG_SB72 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB72
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb72
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb72
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb72
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb72
+	scroll_index:  4
+	text.indexOf("(End)"):  40729
+
+urls[1255]::
+Scraping: WI_2015_REG_SB73 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB73
+
+urls[1256]::
+Scraping: WI_2015_REG_SB74 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB74
+
+urls[1257]::
+Scraping: WI_2015_REG_SB75 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB75
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb75
+	scroll_index:  1
+	text.indexOf("(End)"):  15173
+
+urls[1258]::
+Scraping: WI_2015_REG_SB76 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB76
+
+urls[1259]::
+Scraping: WI_2015_REG_SB77 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB77
+
+urls[1260]::
+Scraping: WI_2015_REG_SB78 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB78
+
+urls[1261]::
+Scraping: WI_2015_REG_SB79 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB79
+
+urls[1262]::
+Scraping: WI_2015_REG_SB80 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB80
+
+urls[1263]::
+Scraping: WI_2015_REG_SB81 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB81
+
+urls[1264]::
+Scraping: WI_2015_REG_SB82 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB82
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb82
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb82
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb82
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb82
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2015/related/proposals/sb82
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2015/related/proposals/sb82
+	scroll_index:  6
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/234/2015/related/proposals/sb82
+	scroll_index:  7
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/263/2015/related/proposals/sb82
+	scroll_index:  8
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/292/2015/related/proposals/sb82
+	scroll_index:  9
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/321/2015/related/proposals/sb82
+	scroll_index:  10
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/350/2015/related/proposals/sb82
+	scroll_index:  11
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/379/2015/related/proposals/sb82
+	scroll_index:  12
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/408/2015/related/proposals/sb82
+	scroll_index:  13
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/437/2015/related/proposals/sb82
+	scroll_index:  14
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/466/2015/related/proposals/sb82
+	scroll_index:  15
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/495/2015/related/proposals/sb82
+	scroll_index:  16
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/524/2015/related/proposals/sb82
+	scroll_index:  17
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/553/2015/related/proposals/sb82
+	scroll_index:  18
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/582/2015/related/proposals/sb82
+	scroll_index:  19
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/611/2015/related/proposals/sb82
+	scroll_index:  20
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/640/2015/related/proposals/sb82
+	scroll_index:  21
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/669/2015/related/proposals/sb82
+	scroll_index:  22
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/698/2015/related/proposals/sb82
+	scroll_index:  23
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/727/2015/related/proposals/sb82
+	scroll_index:  24
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/756/2015/related/proposals/sb82
+	scroll_index:  25
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/785/2015/related/proposals/sb82
+	scroll_index:  26
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/814/2015/related/proposals/sb82
+	scroll_index:  27
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/843/2015/related/proposals/sb82
+	scroll_index:  28
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/872/2015/related/proposals/sb82
+	scroll_index:  29
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/901/2015/related/proposals/sb82
+	scroll_index:  30
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/930/2015/related/proposals/sb82
+	scroll_index:  31
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/959/2015/related/proposals/sb82
+	scroll_index:  32
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/988/2015/related/proposals/sb82
+	scroll_index:  33
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1017/2015/related/proposals/sb82
+	scroll_index:  34
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1046/2015/related/proposals/sb82
+	scroll_index:  35
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1075/2015/related/proposals/sb82
+	scroll_index:  36
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1104/2015/related/proposals/sb82
+	scroll_index:  37
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1133/2015/related/proposals/sb82
+	scroll_index:  38
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1162/2015/related/proposals/sb82
+	scroll_index:  39
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1191/2015/related/proposals/sb82
+	scroll_index:  40
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1220/2015/related/proposals/sb82
+	scroll_index:  41
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1249/2015/related/proposals/sb82
+	scroll_index:  42
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1278/2015/related/proposals/sb82
+	scroll_index:  43
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1307/2015/related/proposals/sb82
+	scroll_index:  44
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1336/2015/related/proposals/sb82
+	scroll_index:  45
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1365/2015/related/proposals/sb82
+	scroll_index:  46
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1394/2015/related/proposals/sb82
+	scroll_index:  47
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1423/2015/related/proposals/sb82
+	scroll_index:  48
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1452/2015/related/proposals/sb82
+	scroll_index:  49
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1481/2015/related/proposals/sb82
+	scroll_index:  50
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1510/2015/related/proposals/sb82
+	scroll_index:  51
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1539/2015/related/proposals/sb82
+	scroll_index:  52
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1568/2015/related/proposals/sb82
+	scroll_index:  53
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1597/2015/related/proposals/sb82
+	scroll_index:  54
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1626/2015/related/proposals/sb82
+	scroll_index:  55
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1655/2015/related/proposals/sb82
+	scroll_index:  56
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1684/2015/related/proposals/sb82
+	scroll_index:  57
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1713/2015/related/proposals/sb82
+	scroll_index:  58
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1742/2015/related/proposals/sb82
+	scroll_index:  59
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1771/2015/related/proposals/sb82
+	scroll_index:  60
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1800/2015/related/proposals/sb82
+	scroll_index:  61
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1829/2015/related/proposals/sb82
+	scroll_index:  62
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1858/2015/related/proposals/sb82
+	scroll_index:  63
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1887/2015/related/proposals/sb82
+	scroll_index:  64
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1916/2015/related/proposals/sb82
+	scroll_index:  65
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1945/2015/related/proposals/sb82
+	scroll_index:  66
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1974/2015/related/proposals/sb82
+	scroll_index:  67
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2003/2015/related/proposals/sb82
+	scroll_index:  68
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2032/2015/related/proposals/sb82
+	scroll_index:  69
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2061/2015/related/proposals/sb82
+	scroll_index:  70
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2090/2015/related/proposals/sb82
+	scroll_index:  71
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2119/2015/related/proposals/sb82
+	scroll_index:  72
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2148/2015/related/proposals/sb82
+	scroll_index:  73
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2177/2015/related/proposals/sb82
+	scroll_index:  74
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2206/2015/related/proposals/sb82
+	scroll_index:  75
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2235/2015/related/proposals/sb82
+	scroll_index:  76
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2264/2015/related/proposals/sb82
+	scroll_index:  77
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2293/2015/related/proposals/sb82
+	scroll_index:  78
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2322/2015/related/proposals/sb82
+	scroll_index:  79
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2351/2015/related/proposals/sb82
+	scroll_index:  80
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2380/2015/related/proposals/sb82
+	scroll_index:  81
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2409/2015/related/proposals/sb82
+	scroll_index:  82
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2438/2015/related/proposals/sb82
+	scroll_index:  83
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2467/2015/related/proposals/sb82
+	scroll_index:  84
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2496/2015/related/proposals/sb82
+	scroll_index:  85
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2525/2015/related/proposals/sb82
+	scroll_index:  86
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2554/2015/related/proposals/sb82
+	scroll_index:  87
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2583/2015/related/proposals/sb82
+	scroll_index:  88
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2612/2015/related/proposals/sb82
+	scroll_index:  89
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2641/2015/related/proposals/sb82
+	scroll_index:  90
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2670/2015/related/proposals/sb82
+	scroll_index:  91
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2699/2015/related/proposals/sb82
+	scroll_index:  92
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2728/2015/related/proposals/sb82
+	scroll_index:  93
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2757/2015/related/proposals/sb82
+	scroll_index:  94
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2786/2015/related/proposals/sb82
+	scroll_index:  95
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2815/2015/related/proposals/sb82
+	scroll_index:  96
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2844/2015/related/proposals/sb82
+	scroll_index:  97
+	text.indexOf("(End)"):  722011
+
+urls[1265]::
+Scraping: WI_2015_REG_SB83 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB83
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb83
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb83
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb83
+	scroll_index:  3
+	text.indexOf("(End)"):  48543
+
+urls[1266]::
+Scraping: WI_2015_REG_SB84 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB84
+
+urls[1267]::
+Scraping: WI_2015_REG_SB85 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB85
+
+urls[1268]::
+Scraping: WI_2015_REG_SB86 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB86
+
+urls[1269]::
+Scraping: WI_2015_REG_SB87 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB87
+
+urls[1270]::
+Scraping: WI_2015_REG_SB88 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB88
+
+urls[1271]::
+Scraping: WI_2015_REG_SB89 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB89
+
+urls[1272]::
+Scraping: WI_2015_REG_SB90 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB90
+
+urls[1273]::
+Scraping: WI_2015_REG_SB91 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB91
+
+urls[1274]::
+Scraping: WI_2015_REG_SB92 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB92
+
+urls[1275]::
+Scraping: WI_2015_REG_SB93 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB93
+
+urls[1276]::
+Scraping: WI_2015_REG_SB94 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB94
+
+urls[1277]::
+Scraping: WI_2015_REG_SB95 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB95
+
+urls[1278]::
+Scraping: WI_2015_REG_SB96 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB96
+
+urls[1279]::
+Scraping: WI_2015_REG_SB97 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB97
+
+urls[1280]::
+Scraping: WI_2015_REG_SB98 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB98
+
+urls[1281]::
+Scraping: WI_2015_REG_SB99 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB99
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb99
+	scroll_index:  1
+	text.indexOf("(End)"):  7182
+
+urls[1282]::
+Scraping: WI_2015_REG_SB100 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB100
+
+urls[1283]::
+Scraping: WI_2015_REG_SB101 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB101
+
+urls[1284]::
+Scraping: WI_2015_REG_SB102 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB102
+
+urls[1285]::
+Scraping: WI_2015_REG_SB103 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB103
+
+urls[1286]::
+Scraping: WI_2015_REG_SB104 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB104
+
+urls[1287]::
+Scraping: WI_2015_REG_SB105 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB105
+
+urls[1288]::
+Scraping: WI_2015_REG_SB106 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB106
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb106
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb106
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb106
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb106
+	scroll_index:  4
+	text.indexOf("(End)"):  35703
+
+urls[1289]::
+Scraping: WI_2015_REG_SB107 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB107
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb107
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb107
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb107
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb107
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2015/related/proposals/sb107
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2015/related/proposals/sb107
+	scroll_index:  6
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/234/2015/related/proposals/sb107
+	scroll_index:  7
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/263/2015/related/proposals/sb107
+	scroll_index:  8
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/292/2015/related/proposals/sb107
+	scroll_index:  9
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/321/2015/related/proposals/sb107
+	scroll_index:  10
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/350/2015/related/proposals/sb107
+	scroll_index:  11
+	text.indexOf("(End)"):  95252
+
+urls[1290]::
+Scraping: WI_2015_REG_SB108 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB108
+
+urls[1291]::
+Scraping: WI_2015_REG_SB109 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB109
+
+urls[1292]::
+Scraping: WI_2015_REG_SB110 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB110
+
+urls[1293]::
+Scraping: WI_2015_REG_SB111 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB111
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb111
+	scroll_index:  1
+	text.indexOf("(End)"):  11248
+
+urls[1294]::
+Scraping: WI_2015_REG_SB112 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB112
+
+urls[1295]::
+Scraping: WI_2015_REG_SB113 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB113
+
+urls[1296]::
+Scraping: WI_2015_REG_SB114 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB114
+
+urls[1297]::
+Scraping: WI_2015_REG_SB115 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB115
+
+urls[1298]::
+Scraping: WI_2015_REG_SB116 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB116
+
+urls[1299]::
+Scraping: WI_2015_REG_SB117 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB117
+
+urls[1300]::
+Scraping: WI_2015_REG_SB118 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB118
+
+urls[1301]::
+Scraping: WI_2015_REG_SB119 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB119
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb119
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb119
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb119
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb119
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2015/related/proposals/sb119
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2015/related/proposals/sb119
+	scroll_index:  6
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/234/2015/related/proposals/sb119
+	scroll_index:  7
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/263/2015/related/proposals/sb119
+	scroll_index:  8
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/292/2015/related/proposals/sb119
+	scroll_index:  9
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/321/2015/related/proposals/sb119
+	scroll_index:  10
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/350/2015/related/proposals/sb119
+	scroll_index:  11
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/379/2015/related/proposals/sb119
+	scroll_index:  12
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/408/2015/related/proposals/sb119
+	scroll_index:  13
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/437/2015/related/proposals/sb119
+	scroll_index:  14
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/466/2015/related/proposals/sb119
+	scroll_index:  15
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/495/2015/related/proposals/sb119
+	scroll_index:  16
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/524/2015/related/proposals/sb119
+	scroll_index:  17
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/553/2015/related/proposals/sb119
+	scroll_index:  18
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/582/2015/related/proposals/sb119
+	scroll_index:  19
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/611/2015/related/proposals/sb119
+	scroll_index:  20
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/640/2015/related/proposals/sb119
+	scroll_index:  21
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/669/2015/related/proposals/sb119
+	scroll_index:  22
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/698/2015/related/proposals/sb119
+	scroll_index:  23
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/727/2015/related/proposals/sb119
+	scroll_index:  24
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/756/2015/related/proposals/sb119
+	scroll_index:  25
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/785/2015/related/proposals/sb119
+	scroll_index:  26
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/814/2015/related/proposals/sb119
+	scroll_index:  27
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/843/2015/related/proposals/sb119
+	scroll_index:  28
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/872/2015/related/proposals/sb119
+	scroll_index:  29
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/901/2015/related/proposals/sb119
+	scroll_index:  30
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/930/2015/related/proposals/sb119
+	scroll_index:  31
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/959/2015/related/proposals/sb119
+	scroll_index:  32
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/988/2015/related/proposals/sb119
+	scroll_index:  33
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1017/2015/related/proposals/sb119
+	scroll_index:  34
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1046/2015/related/proposals/sb119
+	scroll_index:  35
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1075/2015/related/proposals/sb119
+	scroll_index:  36
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1104/2015/related/proposals/sb119
+	scroll_index:  37
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1133/2015/related/proposals/sb119
+	scroll_index:  38
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1162/2015/related/proposals/sb119
+	scroll_index:  39
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1191/2015/related/proposals/sb119
+	scroll_index:  40
+	text.indexOf("(End)"):  312974
+
+urls[1302]::
+Scraping: WI_2015_REG_SB120 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB120
+
+urls[1303]::
+Scraping: WI_2015_REG_SB121 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB121
+
+urls[1304]::
+Scraping: WI_2015_REG_SB122 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB122
+
+urls[1305]::
+Scraping: WI_2015_REG_SB123 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB123
+
+urls[1306]::
+Scraping: WI_2015_REG_SB124 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB124
+
+urls[1307]::
+Scraping: WI_2015_REG_SB125 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB125
+
+urls[1308]::
+Scraping: WI_2015_REG_SB126 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB126
+
+urls[1309]::
+Scraping: WI_2015_REG_SB127 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB127
+
+urls[1310]::
+Scraping: WI_2015_REG_SB128 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB128
+
+urls[1311]::
+Scraping: WI_2015_REG_SB129 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB129
+
+urls[1312]::
+Scraping: WI_2015_REG_SB130 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB130
+
+urls[1313]::
+Scraping: WI_2015_REG_SB131 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB131
+
+urls[1314]::
+Scraping: WI_2015_REG_SB132 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB132
+
+urls[1315]::
+Scraping: WI_2015_REG_SB133 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB133
+
+urls[1316]::
+Scraping: WI_2015_REG_SB134 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB134
+
+urls[1317]::
+Scraping: WI_2015_REG_SB135 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB135
+
+urls[1318]::
+Scraping: WI_2015_REG_SB136 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB136
+
+urls[1319]::
+Scraping: WI_2015_REG_SB137 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB137
+
+urls[1320]::
+Scraping: WI_2015_REG_SB138 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB138
+
+urls[1321]::
+Scraping: WI_2015_REG_SB139 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB139
+
+urls[1322]::
+Scraping: WI_2015_REG_SB140 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB140
+
+urls[1323]::
+Scraping: WI_2015_REG_SB141 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB141
+
+urls[1324]::
+Scraping: WI_2015_REG_SB142 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB142
+
+urls[1325]::
+Scraping: WI_2015_REG_SB143 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB143
+
+urls[1326]::
+Scraping: WI_2015_REG_SB144 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB144
+
+urls[1327]::
+Scraping: WI_2015_REG_SB145 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB145
+
+urls[1328]::
+Scraping: WI_2015_REG_SB146 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB146
+
+urls[1329]::
+Scraping: WI_2015_REG_SB147 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB147
+
+urls[1330]::
+Scraping: WI_2015_REG_SB148 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB148
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb148
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb148
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb148
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb148
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2015/related/proposals/sb148
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2015/related/proposals/sb148
+	scroll_index:  6
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/234/2015/related/proposals/sb148
+	scroll_index:  7
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/263/2015/related/proposals/sb148
+	scroll_index:  8
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/292/2015/related/proposals/sb148
+	scroll_index:  9
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/321/2015/related/proposals/sb148
+	scroll_index:  10
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/350/2015/related/proposals/sb148
+	scroll_index:  11
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/379/2015/related/proposals/sb148
+	scroll_index:  12
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/408/2015/related/proposals/sb148
+	scroll_index:  13
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/437/2015/related/proposals/sb148
+	scroll_index:  14
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/466/2015/related/proposals/sb148
+	scroll_index:  15
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/495/2015/related/proposals/sb148
+	scroll_index:  16
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/524/2015/related/proposals/sb148
+	scroll_index:  17
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/553/2015/related/proposals/sb148
+	scroll_index:  18
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/582/2015/related/proposals/sb148
+	scroll_index:  19
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/611/2015/related/proposals/sb148
+	scroll_index:  20
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/640/2015/related/proposals/sb148
+	scroll_index:  21
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/669/2015/related/proposals/sb148
+	scroll_index:  22
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/698/2015/related/proposals/sb148
+	scroll_index:  23
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/727/2015/related/proposals/sb148
+	scroll_index:  24
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/756/2015/related/proposals/sb148
+	scroll_index:  25
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/785/2015/related/proposals/sb148
+	scroll_index:  26
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/814/2015/related/proposals/sb148
+	scroll_index:  27
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/843/2015/related/proposals/sb148
+	scroll_index:  28
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/872/2015/related/proposals/sb148
+	scroll_index:  29
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/901/2015/related/proposals/sb148
+	scroll_index:  30
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/930/2015/related/proposals/sb148
+	scroll_index:  31
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/959/2015/related/proposals/sb148
+	scroll_index:  32
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/988/2015/related/proposals/sb148
+	scroll_index:  33
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1017/2015/related/proposals/sb148
+	scroll_index:  34
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1046/2015/related/proposals/sb148
+	scroll_index:  35
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1075/2015/related/proposals/sb148
+	scroll_index:  36
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1104/2015/related/proposals/sb148
+	scroll_index:  37
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1133/2015/related/proposals/sb148
+	scroll_index:  38
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1162/2015/related/proposals/sb148
+	scroll_index:  39
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1191/2015/related/proposals/sb148
+	scroll_index:  40
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1220/2015/related/proposals/sb148
+	scroll_index:  41
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1249/2015/related/proposals/sb148
+	scroll_index:  42
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1278/2015/related/proposals/sb148
+	scroll_index:  43
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1307/2015/related/proposals/sb148
+	scroll_index:  44
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1336/2015/related/proposals/sb148
+	scroll_index:  45
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1365/2015/related/proposals/sb148
+	scroll_index:  46
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1394/2015/related/proposals/sb148
+	scroll_index:  47
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1423/2015/related/proposals/sb148
+	scroll_index:  48
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1452/2015/related/proposals/sb148
+	scroll_index:  49
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1481/2015/related/proposals/sb148
+	scroll_index:  50
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1510/2015/related/proposals/sb148
+	scroll_index:  51
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1539/2015/related/proposals/sb148
+	scroll_index:  52
+	text.indexOf("(End)"):  447800
+
+urls[1331]::
+Scraping: WI_2015_REG_SB149 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB149
+
+urls[1332]::
+Scraping: WI_2015_REG_SB150 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB150
+
+urls[1333]::
+Scraping: WI_2015_REG_SB151 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB151
+
+urls[1334]::
+Scraping: WI_2015_REG_SB152 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB152
+
+urls[1335]::
+Scraping: WI_2015_REG_SB153 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB153
+
+urls[1336]::
+Scraping: WI_2015_REG_SB154 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB154
+
+urls[1337]::
+Scraping: WI_2015_REG_SB155 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB155
+
+urls[1338]::
+Scraping: WI_2015_REG_SB156 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB156
+
+urls[1339]::
+Scraping: WI_2015_REG_SB157 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB157
+
+urls[1340]::
+Scraping: WI_2015_REG_SB158 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB158
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb158
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb158
+	scroll_index:  2
+	text.indexOf("(End)"):  23353
+
+urls[1341]::
+Scraping: WI_2015_REG_SB159 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB159
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb159
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb159
+	scroll_index:  2
+	text.indexOf("(End)"):  21104
+
+urls[1342]::
+Scraping: WI_2015_REG_SB160 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB160
+
+urls[1343]::
+Scraping: WI_2015_REG_SB161 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB161
+
+urls[1344]::
+Scraping: WI_2015_REG_SB162 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB162
+
+urls[1345]::
+Scraping: WI_2015_REG_SB163 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB163
+
+urls[1346]::
+Scraping: WI_2015_REG_SB164 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB164
+
+urls[1347]::
+Scraping: WI_2015_REG_SB165 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB165
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb165
+	scroll_index:  1
+	text.indexOf("(End)"):  10634
+
+urls[1348]::
+Scraping: WI_2015_REG_SB166 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB166
+
+urls[1349]::
+Scraping: WI_2015_REG_SB167 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB167
+
+urls[1350]::
+Scraping: WI_2015_REG_SB168 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB168
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb168
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb168
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb168
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb168
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2015/related/proposals/sb168
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2015/related/proposals/sb168
+	scroll_index:  6
+	text.indexOf("(End)"):  72887
+
+urls[1351]::
+Scraping: WI_2015_REG_SB169 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB169
+
+urls[1352]::
+Scraping: WI_2015_REG_SB170 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB170
+
+urls[1353]::
+Scraping: WI_2015_REG_SB171 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB171
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb171
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb171
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb171
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb171
+	scroll_index:  4
+	text.indexOf("(End)"):  31587
+
+urls[1354]::
+Scraping: WI_2015_REG_SB172 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB172
+
+urls[1355]::
+Scraping: WI_2015_REG_SB173 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB173
+
+urls[1356]::
+Scraping: WI_2015_REG_SB174 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB174
+
+urls[1357]::
+Scraping: WI_2015_REG_SB175 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB175
+
+urls[1358]::
+Scraping: WI_2015_REG_SB176 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB176
+
+urls[1359]::
+Scraping: WI_2015_REG_SB177 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB177
+
+urls[1360]::
+Scraping: WI_2015_REG_SB178 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB178
+
+urls[1361]::
+Scraping: WI_2015_REG_SB179 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB179
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb179
+	scroll_index:  1
+	text.indexOf("(End)"):  23093
+
+urls[1362]::
+Scraping: WI_2015_REG_SB179-engrossed 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB179-engrossed
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb179-engrossed
+	scroll_index:  1
+	text.indexOf("(End)"):  24023
+
+urls[1363]::
+Scraping: WI_2015_REG_SB180 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB180
+
+urls[1364]::
+Scraping: WI_2015_REG_SB181 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB181
+
+urls[1365]::
+Scraping: WI_2015_REG_SB182 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB182
+
+urls[1366]::
+Scraping: WI_2015_REG_SB183 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB183
+
+urls[1367]::
+Scraping: WI_2015_REG_SB184 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB184
+
+urls[1368]::
+Scraping: WI_2015_REG_SB185 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB185
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb185
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb185
+	scroll_index:  2
+	text.indexOf("(End)"):  19258
+
+urls[1369]::
+Scraping: WI_2015_REG_SB186 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB186
+
+urls[1370]::
+Scraping: WI_2015_REG_SB187 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB187
+
+urls[1371]::
+Scraping: WI_2015_REG_SB188 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB188
+
+urls[1372]::
+Scraping: WI_2015_REG_SB189 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB189
+
+urls[1373]::
+Scraping: WI_2015_REG_SB190 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB190
+
+urls[1374]::
+Scraping: WI_2015_REG_SB191 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB191
+
+urls[1375]::
+Scraping: WI_2015_REG_SB192 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB192
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb192
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb192
+	scroll_index:  2
+	text.indexOf("(End)"):  20711
+
+urls[1376]::
+Scraping: WI_2015_REG_SB193 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB193
+
+urls[1377]::
+Scraping: WI_2015_REG_SB194 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2015/REG/SB194
+http://docs.legis.wisconsin.gov/scroll/down/60/2015/related/proposals/sb194
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2015/related/proposals/sb194
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2015/related/proposals/sb194
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2015/related/proposals/sb194
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2015/related/proposals/sb194
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2015/related/proposals/sb194
+	scroll_index:  6
+	text.indexOf("(End)"):  -1

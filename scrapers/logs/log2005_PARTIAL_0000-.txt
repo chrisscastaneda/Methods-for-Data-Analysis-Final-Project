@@ -1,0 +1,1096 @@
+biennium: 2005		urls.length: 2249
+
+urls[0]::
+Scraping: WI_2005_JR5_AB1 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/JR5/AB1
+
+urls[1]::
+Scraping: WI_2005_JR5_SB1 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/JR5/SB1
+
+urls[2]::
+Scraping: WI_2005_FE6_AB1 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/FE6/AB1
+
+urls[3]::
+Scraping: WI_2005_FE6_SB1 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/FE6/SB1
+
+urls[4]::
+Scraping: WI_2005_REG_AB1 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB1
+
+urls[5]::
+Scraping: WI_2005_REG_AB2 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB2
+
+urls[6]::
+Scraping: WI_2005_REG_AB3 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB3
+
+urls[7]::
+Scraping: WI_2005_REG_AB4 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB4
+
+urls[8]::
+Scraping: WI_2005_REG_AB5 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB5
+
+urls[9]::
+Scraping: WI_2005_REG_AB6 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB6
+
+urls[10]::
+Scraping: WI_2005_REG_AB7 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB7
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab7
+	scroll_index:  1
+	text.indexOf("(End)"):  15882
+
+urls[11]::
+Scraping: WI_2005_REG_AB8 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB8
+
+urls[12]::
+Scraping: WI_2005_REG_AB9 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB9
+
+urls[13]::
+Scraping: WI_2005_REG_AB10 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB10
+
+urls[14]::
+Scraping: WI_2005_REG_AB11 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB11
+
+urls[15]::
+Scraping: WI_2005_REG_AB12 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB12
+
+urls[16]::
+Scraping: WI_2005_REG_AB13 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB13
+
+urls[17]::
+Scraping: WI_2005_REG_AB14 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB14
+
+urls[18]::
+Scraping: WI_2005_REG_AB15 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB15
+
+urls[19]::
+Scraping: WI_2005_REG_AB16 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB16
+
+urls[20]::
+Scraping: WI_2005_REG_AB17 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB17
+
+urls[21]::
+Scraping: WI_2005_REG_AB18 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB18
+
+urls[22]::
+Scraping: WI_2005_REG_AB19 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB19
+
+urls[23]::
+Scraping: WI_2005_REG_AB20 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB20
+
+urls[24]::
+Scraping: WI_2005_REG_AB21 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB21
+
+urls[25]::
+Scraping: WI_2005_REG_AB22 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB22
+
+urls[26]::
+Scraping: WI_2005_REG_AB23 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB23
+
+urls[27]::
+Scraping: WI_2005_REG_AB24 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB24
+
+urls[28]::
+Scraping: WI_2005_REG_AB25 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB25
+
+urls[29]::
+Scraping: WI_2005_REG_AB26 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB26
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab26
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab26
+	scroll_index:  2
+	text.indexOf("(End)"):  20583
+
+urls[30]::
+Scraping: WI_2005_REG_AB27 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB27
+
+urls[31]::
+Scraping: WI_2005_REG_AB28 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB28
+
+urls[32]::
+Scraping: WI_2005_REG_AB29 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB29
+
+urls[33]::
+Scraping: WI_2005_REG_AB30 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB30
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab30
+	scroll_index:  1
+	text.indexOf("(End)"):  12036
+
+urls[34]::
+Scraping: WI_2005_REG_AB31 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB31
+
+urls[35]::
+Scraping: WI_2005_REG_AB32 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB32
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab32
+	scroll_index:  1
+	text.indexOf("(End)"):  16416
+
+urls[36]::
+Scraping: WI_2005_REG_AB33 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB33
+
+urls[37]::
+Scraping: WI_2005_REG_AB34 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB34
+
+urls[38]::
+Scraping: WI_2005_REG_AB35 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB35
+
+urls[39]::
+Scraping: WI_2005_REG_AB36 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB36
+
+urls[40]::
+Scraping: WI_2005_REG_AB37 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB37
+
+urls[41]::
+Scraping: WI_2005_REG_AB38 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB38
+
+urls[42]::
+Scraping: WI_2005_REG_AB39 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB39
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab39
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab39
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab39
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2005/related/proposals/ab39
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2005/related/proposals/ab39
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2005/related/proposals/ab39
+	scroll_index:  6
+	text.indexOf("(End)"):  43177
+
+urls[43]::
+Scraping: WI_2005_REG_AB40 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB40
+
+urls[44]::
+Scraping: WI_2005_REG_AB41 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB41
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab41
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab41
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab41
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2005/related/proposals/ab41
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2005/related/proposals/ab41
+	scroll_index:  5
+	text.indexOf("(End)"):  51227
+
+urls[45]::
+Scraping: WI_2005_REG_AB42 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB42
+
+urls[46]::
+Scraping: WI_2005_REG_AB43 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB43
+
+urls[47]::
+Scraping: WI_2005_REG_AB44 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB44
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab44
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab44
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab44
+	scroll_index:  3
+	text.indexOf("(End)"):  36889
+
+urls[48]::
+Scraping: WI_2005_REG_AB45 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB45
+
+urls[49]::
+Scraping: WI_2005_REG_AB46 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB46
+
+urls[50]::
+Scraping: WI_2005_REG_AB47 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB47
+
+urls[51]::
+Scraping: WI_2005_REG_AB48 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB48
+
+urls[52]::
+Scraping: WI_2005_REG_AB49 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB49
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab49
+	scroll_index:  1
+	text.indexOf("(End)"):  12278
+
+urls[53]::
+Scraping: WI_2005_REG_AB50 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB50
+
+urls[54]::
+Scraping: WI_2005_REG_AB51 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB51
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab51
+	scroll_index:  1
+	text.indexOf("(End)"):  29665
+
+urls[55]::
+Scraping: WI_2005_REG_AB52 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB52
+
+urls[56]::
+Scraping: WI_2005_REG_AB53 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB53
+
+urls[57]::
+Scraping: WI_2005_REG_AB54 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB54
+
+urls[58]::
+Scraping: WI_2005_REG_AB55 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB55
+
+urls[59]::
+Scraping: WI_2005_REG_AB56 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB56
+
+urls[60]::
+Scraping: WI_2005_REG_AB57 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB57
+
+urls[61]::
+Scraping: WI_2005_REG_AB58 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB58
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab58
+	scroll_index:  1
+	text.indexOf("(End)"):  20625
+
+urls[62]::
+Scraping: WI_2005_REG_AB59 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB59
+
+urls[63]::
+Scraping: WI_2005_REG_AB60 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB60
+
+urls[64]::
+Scraping: WI_2005_REG_AB61 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB61
+
+urls[65]::
+Scraping: WI_2005_REG_AB62 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB62
+
+urls[66]::
+Scraping: WI_2005_REG_AB63 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB63
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab63
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab63
+	scroll_index:  2
+	text.indexOf("(End)"):  58407
+
+urls[67]::
+Scraping: WI_2005_REG_AB63-engrossed 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB63-engrossed
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab63-engrossed
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab63-engrossed
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab63-engrossed
+	scroll_index:  3
+	text.indexOf("(End)"):  72426
+
+urls[68]::
+Scraping: WI_2005_REG_AB64 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB64
+
+urls[69]::
+Scraping: WI_2005_REG_AB65 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB65
+
+urls[70]::
+Scraping: WI_2005_REG_AB66 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB66
+
+urls[71]::
+Scraping: WI_2005_REG_AB67 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB67
+
+urls[72]::
+Scraping: WI_2005_REG_AB68 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB68
+
+urls[73]::
+Scraping: WI_2005_REG_AB69 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB69
+
+urls[74]::
+Scraping: WI_2005_REG_AB70 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB70
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab70
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab70
+	scroll_index:  2
+	text.indexOf("(End)"):  30819
+
+urls[75]::
+Scraping: WI_2005_REG_AB71 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB71
+
+urls[76]::
+Scraping: WI_2005_REG_AB72 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB72
+
+urls[77]::
+Scraping: WI_2005_REG_AB73 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB73
+
+urls[78]::
+Scraping: WI_2005_REG_AB74 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB74
+
+urls[79]::
+Scraping: WI_2005_REG_AB75 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB75
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab75
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab75
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab75
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2005/related/proposals/ab75
+	scroll_index:  4
+	text.indexOf("(End)"):  36481
+
+urls[80]::
+Scraping: WI_2005_REG_AB76 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB76
+
+urls[81]::
+Scraping: WI_2005_REG_AB77 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB77
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab77
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab77
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab77
+	scroll_index:  3
+	text.indexOf("(End)"):  26696
+
+urls[82]::
+Scraping: WI_2005_REG_AB78 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB78
+
+urls[83]::
+Scraping: WI_2005_REG_AB79 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB79
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab79
+	scroll_index:  1
+	text.indexOf("(End)"):  17054
+
+urls[84]::
+Scraping: WI_2005_REG_AB80 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB80
+
+urls[85]::
+Scraping: WI_2005_REG_AB81 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB81
+
+urls[86]::
+Scraping: WI_2005_REG_AB82 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB82
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab82
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab82
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab82
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2005/related/proposals/ab82
+	scroll_index:  4
+	text.indexOf("(End)"):  34783
+
+urls[87]::
+Scraping: WI_2005_REG_AB83 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB83
+
+urls[88]::
+Scraping: WI_2005_REG_AB84 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB84
+
+urls[89]::
+Scraping: WI_2005_REG_AB85 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB85
+
+urls[90]::
+Scraping: WI_2005_REG_AB86 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB86
+
+urls[91]::
+Scraping: WI_2005_REG_AB87 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB87
+
+urls[92]::
+Scraping: WI_2005_REG_AB88 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB88
+
+urls[93]::
+Scraping: WI_2005_REG_AB89 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB89
+
+urls[94]::
+Scraping: WI_2005_REG_AB90 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB90
+
+urls[95]::
+Scraping: WI_2005_REG_AB91 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB91
+
+urls[96]::
+Scraping: WI_2005_REG_AB92 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB92
+
+urls[97]::
+Scraping: WI_2005_REG_AB93 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB93
+
+urls[98]::
+Scraping: WI_2005_REG_AB94 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB94
+
+urls[99]::
+Scraping: WI_2005_REG_AB95 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB95
+
+urls[100]::
+Scraping: WI_2005_REG_AB96 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB96
+
+urls[101]::
+Scraping: WI_2005_REG_AB97 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB97
+
+urls[102]::
+Scraping: WI_2005_REG_AB98 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB98
+
+urls[103]::
+Scraping: WI_2005_REG_AB99 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB99
+
+urls[104]::
+Scraping: WI_2005_REG_AB100 
+======================================
+ http://docs.legis.wisconsin.gov/document/proposaltext/2005/REG/AB100
+http://docs.legis.wisconsin.gov/scroll/down/60/2005/related/proposals/ab100
+	scroll_index:  1
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/89/2005/related/proposals/ab100
+	scroll_index:  2
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/118/2005/related/proposals/ab100
+	scroll_index:  3
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/147/2005/related/proposals/ab100
+	scroll_index:  4
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/176/2005/related/proposals/ab100
+	scroll_index:  5
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/205/2005/related/proposals/ab100
+	scroll_index:  6
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/234/2005/related/proposals/ab100
+	scroll_index:  7
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/263/2005/related/proposals/ab100
+	scroll_index:  8
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/292/2005/related/proposals/ab100
+	scroll_index:  9
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/321/2005/related/proposals/ab100
+	scroll_index:  10
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/350/2005/related/proposals/ab100
+	scroll_index:  11
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/379/2005/related/proposals/ab100
+	scroll_index:  12
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/408/2005/related/proposals/ab100
+	scroll_index:  13
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/437/2005/related/proposals/ab100
+	scroll_index:  14
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/466/2005/related/proposals/ab100
+	scroll_index:  15
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/495/2005/related/proposals/ab100
+	scroll_index:  16
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/524/2005/related/proposals/ab100
+	scroll_index:  17
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/553/2005/related/proposals/ab100
+	scroll_index:  18
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/582/2005/related/proposals/ab100
+	scroll_index:  19
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/611/2005/related/proposals/ab100
+	scroll_index:  20
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/640/2005/related/proposals/ab100
+	scroll_index:  21
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/669/2005/related/proposals/ab100
+	scroll_index:  22
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/698/2005/related/proposals/ab100
+	scroll_index:  23
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/727/2005/related/proposals/ab100
+	scroll_index:  24
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/756/2005/related/proposals/ab100
+	scroll_index:  25
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/785/2005/related/proposals/ab100
+	scroll_index:  26
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/814/2005/related/proposals/ab100
+	scroll_index:  27
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/843/2005/related/proposals/ab100
+	scroll_index:  28
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/872/2005/related/proposals/ab100
+	scroll_index:  29
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/901/2005/related/proposals/ab100
+	scroll_index:  30
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/930/2005/related/proposals/ab100
+	scroll_index:  31
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/959/2005/related/proposals/ab100
+	scroll_index:  32
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/988/2005/related/proposals/ab100
+	scroll_index:  33
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1017/2005/related/proposals/ab100
+	scroll_index:  34
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1046/2005/related/proposals/ab100
+	scroll_index:  35
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1075/2005/related/proposals/ab100
+	scroll_index:  36
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1104/2005/related/proposals/ab100
+	scroll_index:  37
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1133/2005/related/proposals/ab100
+	scroll_index:  38
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1162/2005/related/proposals/ab100
+	scroll_index:  39
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1191/2005/related/proposals/ab100
+	scroll_index:  40
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1220/2005/related/proposals/ab100
+	scroll_index:  41
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1249/2005/related/proposals/ab100
+	scroll_index:  42
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1278/2005/related/proposals/ab100
+	scroll_index:  43
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1307/2005/related/proposals/ab100
+	scroll_index:  44
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1336/2005/related/proposals/ab100
+	scroll_index:  45
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1365/2005/related/proposals/ab100
+	scroll_index:  46
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1394/2005/related/proposals/ab100
+	scroll_index:  47
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1423/2005/related/proposals/ab100
+	scroll_index:  48
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1452/2005/related/proposals/ab100
+	scroll_index:  49
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1481/2005/related/proposals/ab100
+	scroll_index:  50
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1510/2005/related/proposals/ab100
+	scroll_index:  51
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1539/2005/related/proposals/ab100
+	scroll_index:  52
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1568/2005/related/proposals/ab100
+	scroll_index:  53
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1597/2005/related/proposals/ab100
+	scroll_index:  54
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1626/2005/related/proposals/ab100
+	scroll_index:  55
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1655/2005/related/proposals/ab100
+	scroll_index:  56
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1684/2005/related/proposals/ab100
+	scroll_index:  57
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1713/2005/related/proposals/ab100
+	scroll_index:  58
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1742/2005/related/proposals/ab100
+	scroll_index:  59
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1771/2005/related/proposals/ab100
+	scroll_index:  60
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1800/2005/related/proposals/ab100
+	scroll_index:  61
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1829/2005/related/proposals/ab100
+	scroll_index:  62
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1858/2005/related/proposals/ab100
+	scroll_index:  63
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1887/2005/related/proposals/ab100
+	scroll_index:  64
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1916/2005/related/proposals/ab100
+	scroll_index:  65
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1945/2005/related/proposals/ab100
+	scroll_index:  66
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/1974/2005/related/proposals/ab100
+	scroll_index:  67
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2003/2005/related/proposals/ab100
+	scroll_index:  68
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2032/2005/related/proposals/ab100
+	scroll_index:  69
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2061/2005/related/proposals/ab100
+	scroll_index:  70
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2090/2005/related/proposals/ab100
+	scroll_index:  71
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2119/2005/related/proposals/ab100
+	scroll_index:  72
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2148/2005/related/proposals/ab100
+	scroll_index:  73
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2177/2005/related/proposals/ab100
+	scroll_index:  74
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2206/2005/related/proposals/ab100
+	scroll_index:  75
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2235/2005/related/proposals/ab100
+	scroll_index:  76
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2264/2005/related/proposals/ab100
+	scroll_index:  77
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2293/2005/related/proposals/ab100
+	scroll_index:  78
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2322/2005/related/proposals/ab100
+	scroll_index:  79
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2351/2005/related/proposals/ab100
+	scroll_index:  80
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2380/2005/related/proposals/ab100
+	scroll_index:  81
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2409/2005/related/proposals/ab100
+	scroll_index:  82
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2438/2005/related/proposals/ab100
+	scroll_index:  83
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2467/2005/related/proposals/ab100
+	scroll_index:  84
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2496/2005/related/proposals/ab100
+	scroll_index:  85
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2525/2005/related/proposals/ab100
+	scroll_index:  86
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2554/2005/related/proposals/ab100
+	scroll_index:  87
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2583/2005/related/proposals/ab100
+	scroll_index:  88
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2612/2005/related/proposals/ab100
+	scroll_index:  89
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2641/2005/related/proposals/ab100
+	scroll_index:  90
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2670/2005/related/proposals/ab100
+	scroll_index:  91
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2699/2005/related/proposals/ab100
+	scroll_index:  92
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2728/2005/related/proposals/ab100
+	scroll_index:  93
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2757/2005/related/proposals/ab100
+	scroll_index:  94
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2786/2005/related/proposals/ab100
+	scroll_index:  95
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2815/2005/related/proposals/ab100
+	scroll_index:  96
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2844/2005/related/proposals/ab100
+	scroll_index:  97
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2873/2005/related/proposals/ab100
+	scroll_index:  98
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2902/2005/related/proposals/ab100
+	scroll_index:  99
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2931/2005/related/proposals/ab100
+	scroll_index:  100
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2960/2005/related/proposals/ab100
+	scroll_index:  101
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/2989/2005/related/proposals/ab100
+	scroll_index:  102
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3018/2005/related/proposals/ab100
+	scroll_index:  103
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3047/2005/related/proposals/ab100
+	scroll_index:  104
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3076/2005/related/proposals/ab100
+	scroll_index:  105
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3105/2005/related/proposals/ab100
+	scroll_index:  106
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3134/2005/related/proposals/ab100
+	scroll_index:  107
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3163/2005/related/proposals/ab100
+	scroll_index:  108
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3192/2005/related/proposals/ab100
+	scroll_index:  109
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3221/2005/related/proposals/ab100
+	scroll_index:  110
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3250/2005/related/proposals/ab100
+	scroll_index:  111
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3279/2005/related/proposals/ab100
+	scroll_index:  112
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3308/2005/related/proposals/ab100
+	scroll_index:  113
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3337/2005/related/proposals/ab100
+	scroll_index:  114
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3366/2005/related/proposals/ab100
+	scroll_index:  115
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3395/2005/related/proposals/ab100
+	scroll_index:  116
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3424/2005/related/proposals/ab100
+	scroll_index:  117
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3453/2005/related/proposals/ab100
+	scroll_index:  118
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3482/2005/related/proposals/ab100
+	scroll_index:  119
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3511/2005/related/proposals/ab100
+	scroll_index:  120
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3540/2005/related/proposals/ab100
+	scroll_index:  121
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3569/2005/related/proposals/ab100
+	scroll_index:  122
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3598/2005/related/proposals/ab100
+	scroll_index:  123
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3627/2005/related/proposals/ab100
+	scroll_index:  124
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3656/2005/related/proposals/ab100
+	scroll_index:  125
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3685/2005/related/proposals/ab100
+	scroll_index:  126
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3714/2005/related/proposals/ab100
+	scroll_index:  127
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3743/2005/related/proposals/ab100
+	scroll_index:  128
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3772/2005/related/proposals/ab100
+	scroll_index:  129
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3801/2005/related/proposals/ab100
+	scroll_index:  130
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3830/2005/related/proposals/ab100
+	scroll_index:  131
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3859/2005/related/proposals/ab100
+	scroll_index:  132
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3888/2005/related/proposals/ab100
+	scroll_index:  133
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3917/2005/related/proposals/ab100
+	scroll_index:  134
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3946/2005/related/proposals/ab100
+	scroll_index:  135
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/3975/2005/related/proposals/ab100
+	scroll_index:  136
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4004/2005/related/proposals/ab100
+	scroll_index:  137
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4033/2005/related/proposals/ab100
+	scroll_index:  138
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4062/2005/related/proposals/ab100
+	scroll_index:  139
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4091/2005/related/proposals/ab100
+	scroll_index:  140
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4120/2005/related/proposals/ab100
+	scroll_index:  141
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4149/2005/related/proposals/ab100
+	scroll_index:  142
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4178/2005/related/proposals/ab100
+	scroll_index:  143
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4207/2005/related/proposals/ab100
+	scroll_index:  144
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4236/2005/related/proposals/ab100
+	scroll_index:  145
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4265/2005/related/proposals/ab100
+	scroll_index:  146
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4294/2005/related/proposals/ab100
+	scroll_index:  147
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4323/2005/related/proposals/ab100
+	scroll_index:  148
+	text.indexOf("(End)"):  -1
+http://docs.legis.wisconsin.gov/scroll/down/4352/2005/related/proposals/ab100
+	scroll_index:  149
+	text.indexOf("(End)"):  -1

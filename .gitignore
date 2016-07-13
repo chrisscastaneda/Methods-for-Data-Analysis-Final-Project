@@ -1,0 +1,12 @@
+.RData
+.Rhistory
+.ipynb_checkpoints/*
+*.zip
+lid/
+scrapers/node_modules/
+temp/
+extension1.R
+Potential_Project_Ideas.docx
+Previously tackled problems.docx
+San Francisco crime and Tweets.pdf
+final_project_R.txt
