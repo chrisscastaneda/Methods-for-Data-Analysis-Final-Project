@@ -14,6 +14,13 @@ https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/
 
 [246 idetified bills](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/crime_bills_in_wi.csv)
 
+## SCRAPERS
 
-# TO DO:
+### [scrapers/driver.js](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/scrapers/driver.js)
+
+
+### [scrapers/alec-exposed-bot.js](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/scrapers/alec-exposed-bot.js)
+[scrapers/wibot.js](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/scrapers/wibot.js)
+
+## TO DO:
   [ ] finish this README
