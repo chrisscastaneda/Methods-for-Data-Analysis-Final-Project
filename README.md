@@ -5,7 +5,7 @@ This project was completed a part of the requirements for the _Data Science 350:
 
 For an overview of the project, please refer to [final_project_writeup.pdf](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project_writeup.pdf).
 
-## ANALYIS
+## ANALYSIS
 
 This project was an exercise in Natural Language Processing in R.  To recreate my analysis, copy this repo and run this file in R Studio: [final_project.R](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project.R).
 
