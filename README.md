@@ -7,7 +7,7 @@ For an overview of the project, please refer to [final_project_writeup.pdf](http
 
 ## ANALYSIS
 
-This project was an exercise in Natural Language Processing in R.  To recreate my analysis, copy this repo and run this file in R Studio: [final_project.R](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project.R).
+This project was an exercise in Natural Language Processing using R.  To recreate my analysis, copy this repo and run this file in R Studio: [final_project.R](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project.R).
 
 For a quick overview, I've also encapsulated the analysis into a [jupyter notebook](
 https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/Legislative_Analysis_using_Natural_Language_Processing.ipynb).
