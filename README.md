@@ -1,13 +1,20 @@
 # Legislative Analysis using Natural Language Processing: 
-## Text Mining the Wisconsin State Legislature for ALEC Model Legislation (DS 350: Methods for Data Analysis Final Project)
+## Text Mining the Wisconsin State Legislature for ALEC Model Legislation (Data Science 350: Methods for Data Analysis Final Project)
 
 This project was completed a part of the requirements for the _Data Science 350: Methods for Data Analysis_ class as part of the Certificate in Data Science program at the University of Washington.  
 
-For an overview of the project, please refer to [final_project_writeup.pdf](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project_writeup.pdf).
+## OVERVIEW
+
+Using natural language processing (NLP) techniques I data mined legislative texts introduced into the [Wisconsin state legislature](http://docs.legis.wisconsin.gov/) in search of ALEC Model Legislation. I harvested the texts of nearly every piece of legislation introduced into the Wisconsin state legislature from 1995 to 2014 (my scrapper bot had issues with extracting the texts from the 1999-2000 and 2015-16 bienniums, so those texts have been omitted from my analysis; legislation prior to 1995 were not easily accessible in a digital format). In total I harvested the texts of nearly 17,000 pieces of legislation. I also scrapped the text of known examples of ALEC Model legislation from the Center for Media and Democracy’s ALECExposed.org website, specifically examples of bills related to Guns, Prisons, Crime and Immigration here: http://www.alecexposed.org/wiki/Bills_related_to_Guns,_Prisons,_Crime,_and_Immigration.
+
+For a complete overview of the project, please refer to [final_project_writeup.pdf](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project_writeup.pdf).
 
 ## ANALYSIS
 
-This project was an exercise in Natural Language Processing using R.  To recreate my analysis, copy this repo and run this file in R Studio: [final_project.R](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project.R).
+This project was an exercise in Natural Language Processing using R.  To recreate my analysis, clone this repo and run [final_project.R](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project.R) in R, or RStudio, i.e. form the R console, run (note: may take up to ten minutes to run):
+```R
+source("final_project.R")
+```
 
 For a quick overview, I've also encapsulated the analysis into a [jupyter notebook](
 https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/Legislative_Analysis_using_Natural_Language_Processing.ipynb).
@@ -20,7 +27,7 @@ It is said that 80% of a data scientists work is comprised of extracting, transf
 
 [scrapers/driver.js](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/scrapers/driver.js) Is the primary driver of my bots, and provides a set of simple functions for utilizing them.  Edit the file to call the function you're interested in and execute as follows.  I recommend redirecting your console output to a log file.
 
-```
+```bash
 node driver.js > log.text
 ```
 
