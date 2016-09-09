@@ -9,6 +9,11 @@ Using natural language processing (NLP) techniques I data mined legislative text
 
 For a complete overview of the project, please refer to [final_project_writeup.pdf](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project_writeup.pdf).
 
+## RESULTS
+
+My algorithm sifted through nearly 17,000 pieces of legislation, nearly every piece of legislation introduced into the Wisconsin state legislature over the past two decades, and ultimately produced a list of [246 identified bills](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/crime_bills_in_wi.csv) as possible matches for ALEC model legislation.  This algorithm is simply a first pass over the data.  Deeper analysis of these identified bills is necessary in order to identify model legislation.
+
+
 ## ANALYSIS
 
 This project was an exercise in Natural Language Processing using R.  To recreate my analysis, clone this repo and run [final_project.R](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/final_project.R) in R, or RStudio, i.e. form the R console, run (note: may take up to ten minutes to run):
@@ -18,8 +23,6 @@ source("final_project.R")
 
 For a quick overview, I've also encapsulated the analysis into a [jupyter notebook](
 https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/Legislative_Analysis_using_Natural_Language_Processing.ipynb).
-
-My algorithm sifted through nearly 17,000 pieces of legislation, nearly every piece of legislation introduced into the Wisconsin state legislature over the past two decades, and ultimately produced a list of [246 identified bills](https://github.com/chrisscastaneda/Methods-for-Data-Analysis-Final-Project/blob/master/crime_bills_in_wi.csv) as possible matches for ALEC model legislation.  This algorithm is simply a first pass over the data.  Deeper analysis of these identified bills is necessary in order to identify model legislation.
 
 ## WEB SCRAPERS
 
